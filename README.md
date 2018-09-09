@@ -16,4 +16,4 @@ If you're interested, fill out our [introduction form](https://docs.google.com/f
 
 ## Contact
 
-If you are representing an organization, business or university group and would like to get in touch, please email us at [vrclub.uvic@gmail.com](mailto:vrclub.uvic@gmail.com), we'd love to hear from you!
+If you are representing an organization, business or university group and would like to get in touch, please email us at [uvic.virtual@gmail.com](mailto:uvic.virtual@gmail.com), we'd love to hear from you!
