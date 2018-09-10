@@ -4,16 +4,6 @@ UVic Virtual is the University of Victoria's student-led virtual and augmented r
 
 We aim to help all UVic students learn to build quality VR tools, experiences and games. We are partnered with 4 on-campus locations that offer student access to VR equipment. Our members have varying levels of experience, but most of us are in very early stages of learning VR. Peer learning is crucial for the success of our club and we aim to develop our core competencies as we work on our projects.
 
-## Meet the team!
-
-* Merrick Paq-Man - President
-
-* Quinn Gieseke - Vice President / Project Lead: [Untangle](https://uvicvirtual.ca/Untangle/)
-
-* Jaden - System Administrator
-
-* Anar Kazimov - Project Lead: [City-Virtual](https://uvicvirtual.ca/City-Virtual/)
-
 
 ## Join us?
 
