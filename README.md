@@ -2,7 +2,7 @@
 
 UVic Virtual is the University of Victoria's student-led virtual and augmented reality club.
 
-We aim to help UVic students learn to build quality VR tools, experiences and games. We are partnered with 4 on-campus labs that offer student access to VR equipment. Our members have varying levels of experience, and we share a passion for innovation, dynamic learning and asking questions. We learn from each other and develop our core competencies as we work together on club projects.
+We aim to help UVic students learn to build quality VR tools, experiences and games. We are partnered with on-campus labs that offer student access to VR equipment. Our members have varying levels of experience, and we share a passion for innovation, dynamic learning and asking questions. We learn from each other and develop our core competencies as we work together on club projects.
 
 
 ## Join us?
