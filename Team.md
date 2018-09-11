@@ -8,7 +8,7 @@
 
 * Vice President  - Quinn Gieseke
 
-* System Administrator - Jayden Chan
+* System Administrator - Jaden Chan
 
 * Treasurer - Dianna Borinaga 
 
