@@ -1,4 +1,7 @@
-
+---
+Title: City-Virtual
+permalink: /City-Virtual/
+---
 # City Virtual - a life simulator
 
 **By Anar Kazimov**
