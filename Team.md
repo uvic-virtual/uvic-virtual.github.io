@@ -14,6 +14,6 @@
 
 ### Project Leads
 
-* [Untangle](/untangle/) - Quinn Gieseke
+* [Untangle](/untangle) - Quinn Gieseke
 
-* [City-Virtual](/city-virtual/) - Anar Kazimov
+* [City-Virtual](/city-virtual) - Anar Kazimov
