@@ -1,9 +1,19 @@
-## Meet the team!
+# Meet the team!
 
-* Merrick Paq-Man - President
+* Faculty Sponsor - [Dr. Yvonne Coady](https://yvonnecoady.com/)
 
-* Quinn Gieseke - Vice President / Project Lead: [Untangle](/untangle/)
+### Executive
 
-* Jaden - System Administrator
+* President - Merrick Paq-Man
 
-* Anar Kazimov - Project Lead: [City-Virtual](/city-virtual/)
+* Vice President  - Quinn Gieseke
+
+* System Administrator - Jaden Chan
+
+* Treasurer - Dianna Borinaga 
+
+### Project Leads
+
+* [Untangle](/untangle/) - Quinn Gieseke
+
+* [City-Virtual](/city-virtual/) - Anar Kazimov
