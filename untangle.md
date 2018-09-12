@@ -1,4 +1,7 @@
-
+---
+Title: untangle
+permalink: /untangle/
+---
 Untangle
 ========
 

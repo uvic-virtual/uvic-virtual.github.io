@@ -8,12 +8,12 @@
 
 * Vice President  - Quinn Gieseke
 
-* System Administrator - Jaden Chan
+* System Administrator - Jayden Chan
 
 * Treasurer - Dianna Borinaga 
 
 ### Project Leads
 
-* [Untangle](/untangle/) - Quinn Gieseke
+* [Untangle](/untangle) - Quinn Gieseke
 
-* [City-Virtual](/city-virtual/) - Anar Kazimov
+* [City-Virtual](/city-virtual) - Anar Kazimov

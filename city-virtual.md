@@ -1,6 +1,6 @@
 ---
-Title: City-Virtual
-permalink: /City-Virtual/
+Title: city-virtual
+permalink: /city-virtual/
 ---
 # City Virtual - a life simulator
 
