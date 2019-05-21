@@ -4,16 +4,16 @@
 
 ### Executive
 
-* President - Merrick Paq-Man
+* President - Domenic Woo
 
-* Vice President  - Quinn Gieseke
+* Vice President  - Alex Li
 
-* System Administrator - Jayden Chan
+* System Administrator - Kathryn Rieb
 
-* Treasurer - Dianna Borinaga 
+* Treasurer - Thomas 'Danger' Roberts
 
 ### Project Leads
 
 * [Untangle](/untangle) - Quinn Gieseke
 
-* [City-Virtual](/city-virtual) - Dom
+* [City-Virtual](/city-virtual) - Domenic Woo
