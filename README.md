@@ -13,7 +13,6 @@ We are always looking for passionate new members who love learning and want to s
 * Software developers who want to learn best practices using industry tools like [GitHub](https://guides.github.com/activities/hello-world/) and [Slack](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
 * Anyone else who wants to "do" VR!
 
-If you're interested, fill out our [introduction form](https://docs.google.com/forms/d/1E83ZO1mBgeSXi8WaqmKFrT-X4TY0WDOtVhHW3NFAZUo/)!
 
 ## Contact
 
