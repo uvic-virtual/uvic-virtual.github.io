@@ -11,9 +11,3 @@
 * System Administrator - Kathryn Rieb
 
 * Treasurer - Thomas 'Danger' Roberts
-
-### Project Leads
-
-* [Untangle](/untangle) - Quinn Gieseke
-
-* [City-Virtual](/city-virtual) - Domenic Woo
