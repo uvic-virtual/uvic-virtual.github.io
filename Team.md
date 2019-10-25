@@ -15,4 +15,4 @@
 
 ![Dom and Alex](/assets/dom and alex.JPG)
 
-<img src="/assets/dom and alex.jpg" alt="Dom and Alex Selfie">
+<img src="https://raw.githubusercontent.com/uvic-virtual/uvic-virtual.github.io/master/assets/dom%20and%20alex.JPG" alt="Dom and Alex Selfie">
