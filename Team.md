@@ -15,4 +15,4 @@
 
 ![Dom and Alex](/assets/dom and alex.JPG)
 
-<img src="dom and alex.jpg" alt="Dom and Alex Selfie">
+<img src="/assets/dom and alex.jpg" alt="Dom and Alex Selfie">
