@@ -14,3 +14,5 @@
 
 
 ![Dom and Alex](/assets/dom and alex.JPG)
+
+<img src="/assets/dom and alex.JPG" alt="Dom and Alex Selfie" style=width:500px;height:375px;">
