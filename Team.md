@@ -11,3 +11,6 @@
 * System Administrator - Kathryn Rieb
 
 * Treasurer - Thomas 'Danger' Roberts
+
+
+![Dom and Alex](/assets/me and alex.JPG)
