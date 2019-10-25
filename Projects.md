@@ -1,3 +1,5 @@
 # Projects
 
-We are working on some awesome new projects, stay tuned for updates!
+You can check out our current project on our [github page!](https://github.com/uvic-virtual)
+
+https://github.com/uvic-virtual
