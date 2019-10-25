@@ -13,4 +13,4 @@
 * Treasurer - Thomas 'Danger' Roberts
 
 
-![Dom and Alex](/assets/me and alex.JPG)
+![Dom and Alex](/assets/dom and alex.JPG | width=100)
