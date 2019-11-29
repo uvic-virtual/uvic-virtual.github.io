@@ -10,7 +10,7 @@
 
 * System Administrator - Kathryn Rieb
 
-* Treasurer - Thomas 'Danger' Roberts
+* King of the GitHub - Thomas Roberts
 
 
 ![Dom and Alex](/assets/dom and alex.JPG)
