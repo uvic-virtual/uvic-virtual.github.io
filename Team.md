@@ -12,7 +12,3 @@
 
 * King of the GitHub - Thomas Roberts
 
-
-![Dom and Alex](/assets/dom and alex.JPG)
-
-<img src="https://raw.githubusercontent.com/uvic-virtual/uvic-virtual.github.io/master/assets/dom%20and%20alex.JPG" alt="Dom and Alex Selfie">
