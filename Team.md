@@ -10,5 +10,5 @@
 
 * System Administrator - Kathryn Rieb
 
-* King of the GitHub - Thomas Roberts
+* Tech Lead - Thomas Roberts
 
