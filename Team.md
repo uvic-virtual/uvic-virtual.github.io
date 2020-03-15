@@ -3,12 +3,11 @@
 * Faculty Sponsor - [Dr. Yvonne Coady](https://yvonnecoady.com/)
 
 ### Executive
+* Tech Lead - Thomas Roberts
 
-* President - Domenic Woo
+* President - Alex Li
 
-* Vice President  - Alex Li
+* MIA President - Domenic Woo
 
 * System Administrator - Kathryn Rieb
-
-* Tech Lead - Thomas Roberts
 
